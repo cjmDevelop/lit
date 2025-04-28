@@ -1,1 +1,1 @@
-Cool animation using only html and css of a lit candle, tutorial for this is from YouTube channel DesignDelight, video can be found at: https://youtu.be/HhNZNmZKBuM
+Cool candle animation made using only HTML and CSS. The tutorial is by YouTube channel DesignDelight -> https://youtu.be/HhNZNmZKBuM
